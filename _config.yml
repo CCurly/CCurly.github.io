@@ -1,19 +1,17 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
+title: Curly’s Blog
+email: culy_lin@foxmail.com
+description: 😄
 baseurl: ""
 url: "http://ccurly.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : Curly Lin
+  email    : culy_lin@foxmail.com
+  url      : http://ccurly.github.io
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
+github: https://github.com/CCurly
+disqus_shortname: "Curly"
 google_analytics: UA-52446115-1
 
 paginate: 3
