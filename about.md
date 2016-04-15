@@ -5,7 +5,7 @@ permalink: /about/
 slug: about
 ---
 
-I am a  developer of ios from China, Curly.
+I am a  developer of iOS from China, Curly.
 
 This is a blog to share and record somthing, furthermore, to make me stay hungry and foolish.
 
