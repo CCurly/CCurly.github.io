@@ -5,10 +5,9 @@ permalink: /about/
 slug: about
 ---
 
-This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [jekyllrb.com](http://jekyllrb.com/).
+I am a  developer of ios from China, Curly.
 
-You can find the source code for this theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
+This is a blog to share and record somthing, furthermore, to make me stay hungry and foolish.
 
-You can find the source code in Jekyll [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Wish you like!
 
-Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
